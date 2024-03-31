@@ -10,7 +10,7 @@ The US Arrest dataset contains statistics, in arrests per 100,000 residents, for
 ## Contents
 
 - `US_Arrests_PCA.ipynb`: Jupyter Notebook containing the code for EDA and PCA.
-- `USarrest.csv`: CSV file containing the raw data.
+- `UsArrests.csv`: CSV file containing the raw data.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -45,4 +45,11 @@ PCA was performed to:
 ## Usage
 
 1. Clone the repository:
+2. Install the required dependencies:
+
+3. Open and run the Jupyter Notebook `US_Arrest_Data_Analysis.ipynb` to explore the dataset and analysis results.
+
+## Credits
+
+This project was created by [Fortune]. You can find the original repository [here](https://github.com/your-username/US-Arrest-Analysis).
 
