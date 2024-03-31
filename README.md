@@ -46,10 +46,9 @@ PCA was performed to:
 
 1. Clone the repository:
 2. Install the required dependencies:
-
-3. Open and run the Jupyter Notebook `US_Arrest_Data_Analysis.ipynb` to explore the dataset and analysis results.
+3. Open and run the Jupyter Notebook `US_Arrests_PCA.ipynb` to explore the dataset and analysis results.
 
 ## Credits
 
-This project was created by [Fortune]. You can find the original repository [here](https://github.com/your-username/US-Arrest-Analysis).
+This project was created by Fortune Ncube. You can find the original repository [here](https://github.com/fortune-ncube/US_Arrests_PCA).
 
