@@ -1,3 +1,4 @@
+![image](https://github.com/fortune-ncube/US_Arrests_PCA/assets/100047369/fefacb55-5906-49b1-b328-dfb42ea88187)
 
 # US Arrest Dataset Analysis
 
