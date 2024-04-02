@@ -65,3 +65,6 @@ To reproduce the analysis or explore the code, follow these steps:
 
 This project was created by Fortune Ncube. You can find the original repository [here](https://github.com/fortune-ncube/US_Arrests_PCA).
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/fortune-ncube/US_Arrests_PCA/blob/main/LICENSE).
