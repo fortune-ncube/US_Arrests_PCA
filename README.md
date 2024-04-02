@@ -28,12 +28,6 @@ PCA was performed to:
 - Identify patterns and relationships between variables.
 - Visualize the data in lower-dimensional space.
 
-## Results
-
-- EDA revealed interesting patterns and insights into the relationships between different variables.
-- PCA provided a simplified representation of the dataset, highlighting the most significant components.
-- Insights gained from the analysis can be used for further investigation or decision-making.
-
 ## Dependencies
 
 - Python 3
@@ -46,8 +40,18 @@ PCA was performed to:
 ## Usage
 
 1. Clone the repository:
-2. Install the required dependencies:
+
+   OR
+   
+1. Install the required dependencies:
 3. Open and run the Jupyter Notebook `US_Arrests_PCA.ipynb` to explore the dataset and analysis results.
+
+## Results
+
+- EDA revealed interesting patterns and insights into the relationships between different variables.
+- PCA provided a simplified representation of the dataset, highlighting the most significant components.
+- Insights gained from the analysis can be used for further investigation or decision-making.
+
 
 ## Credits
 
