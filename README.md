@@ -2,12 +2,13 @@
 
 This project explores the US Arrest dataset using exploratory data analysis (EDA) techniques and principal component analysis (PCA).
 
-And there you have it! Assult is the most common offence in the USA.
+And there you have it! Assault is the most common offence in the USA.
+
 ![image](https://github.com/fortune-ncube/US_Arrests_PCA/assets/100047369/fefacb55-5906-49b1-b328-dfb42ea88187)
 
 ## Overview
 
-The US Arrest dataset contains statistics, in arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. The dataset also includes the percentage of the population living in urban areas.
+The US Arrest dataset contains statistics, on arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. The dataset also includes the percentage of the population living in urban areas.
 
 ## Contents
 
